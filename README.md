@@ -1,0 +1,2 @@
+# osuAutomap
+automap
